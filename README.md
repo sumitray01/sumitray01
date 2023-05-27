@@ -37,13 +37,14 @@
 
 <br clear="both">
 
-<h4 align="left">- 🔭 I am Android Native developer. Making apps in Kotlin and Java<br><br>- 📚 I'm currently learning jetpack. compose<br>👯 Connect with me if you think, We can be a team for something unique.<br><br>💬 Ask me about programming<br><br>📫 How to reach me: <br>sumitray01.github.io</h4>
+<h4 align="left">- 🔭 I am Android Native developer. Making apps in Kotlin and Java<br><br>- 📚 I'm currently learning jetpack. compose<br><br>- 👯 Connect with me if you think, We can be a team for something unique.<br><br>- 💬 Ask me about programming<br><br>- 📫 How to reach me: <a href="https://sumitray01.github.io/">sumitray01.github.io</a></h4>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Language and tools<br> </h3>
+<hr>
 
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" width="52" alt="android logo"  />
@@ -56,10 +57,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" width="52" alt="jetbrains logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="figma logo"  />
 </div>
+<hr>
 
-###
 
-<h4 align="left">🔥   My Stats :<br>Looking for an opportunity to work in a challenging position combining my skills in Software Engineering, which provides professional development, interesting experiences and personal growth.</h4>
+
+
+
+<h4 align="left">🔥   My Stats :<br><br>Looking for an opportunity to work in a challenging position combining my skills in Software Engineering, which provides professional <br> development, interesting experiences and personal growth.</h4>
 
 ###
 
